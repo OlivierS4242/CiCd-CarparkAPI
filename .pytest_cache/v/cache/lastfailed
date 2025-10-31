@@ -1,7 +1,0 @@
-{
-  "Lib/site-packages/pyflakes/test/test_api.py::IntegrationTests::test_errors_io": true,
-  "Lib/site-packages/pyflakes/test/test_api.py::IntegrationTests::test_errors_syntax": true,
-  "Lib/site-packages/pyflakes/test/test_api.py::IntegrationTests::test_fileWithFlakes": true,
-  "Lib/site-packages/pyflakes/test/test_api.py::IntegrationTests::test_goodFile": true,
-  "Lib/site-packages/pyflakes/test/test_api.py::IntegrationTests::test_readFromStdin": true
-}
